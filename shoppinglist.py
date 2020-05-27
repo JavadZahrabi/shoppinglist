@@ -22,5 +22,4 @@ for item in shopping_list:
     #print items
     print(item)
 
-#just for test
-#for second test
+
